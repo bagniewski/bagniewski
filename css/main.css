@@ -1,4 +1,4 @@
-body { margin:0 auto; padding:0; width: 978px; background: #949494;}
+body { margin:0 auto; padding:0;}
 
 #style_container {
 width: 100%;
@@ -21,16 +21,21 @@ padding-top: 16px;
 padding-bottom: 7px;
 padding-left: 80px;
 font-family:Georgia, "Times New Roman", Times, serif;
-font-size: 34px;
-font-style: italic;
+font-size: 28px;
 color: #000000;
 }
 
-/* Create two equal columns that floats next to each other */
-.column {
+/* Left column */
+.column1 {
   float: left;
-  width: 40%;
-  padding: 10px;
+  width: 20%;
+  padding: 0px;
+}
+/* Right column */
+.column2 {
+  float: left;
+  width: 80%;
+  padding: 0px;
 }
 /* Clear floats after the columns */
 .row:after {
