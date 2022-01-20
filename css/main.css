@@ -28,13 +28,13 @@ color: #000000;
 /* Left column */
 .column1 {
   float: left;
-  width: 300px;
+  width: 20%;
   padding: 0px;
 }
 /* Right column */
 .column2 {
   float: left;
-  width: 100%;
+  width: 80%;
   height: 100%;
   padding: 0px;
 }
