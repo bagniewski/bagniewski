@@ -19,7 +19,7 @@ padding-right: 0px;
 #style_title {                  /*TOP BAR TITLE*/
 padding-top: 16px;
 padding-bottom: 7px;
-padding-left: 80px;
+padding-left: 30px;
 font-family:Georgia, "Times New Roman", Times, serif;
 font-size: 28px;
 color: #000000;
@@ -28,13 +28,13 @@ color: #000000;
 /* Left column */
 .column1 {
   float: left;
-  width: 200px;
+  width: 300px;
   padding: 0px;
 }
 /* Right column */
 .column2 {
   float: left;
-  width: 80%;
+  width: 100%;
   height: 100%;
   padding: 0px;
 }
