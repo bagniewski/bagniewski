@@ -13,8 +13,8 @@ background: #5f70b3;
 /*width: 100%;*/
 background: #ebebeb;
 font-size: 17px;
-padding-left: 35px;
-padding-right: 35px;
+padding-left: 0px;
+padding-right: 0px;
 }
 #style_title {                  /*TOP BAR TITLE*/
 padding-top: 16px;
@@ -28,7 +28,7 @@ color: #000000;
 /* Left column */
 .column1 {
   float: left;
-  width: 20%;
+  width: 200px;
   padding: 0px;
 }
 /* Right column */
