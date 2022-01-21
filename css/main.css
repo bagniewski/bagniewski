@@ -5,10 +5,7 @@ width: 100%;
 margin: auto;
 background: #ffffff;
 }
-#style_header {                 /*TOP BAR*/
-height: 120px;
-background: #5f70b3;
-}
+
 #style_content {                /*MAIN TEXT*/
 /*width: 100%;*/
 background: #ebebeb;
@@ -20,15 +17,17 @@ padding-right: 0px;
 padding-top: 16px;
 padding-bottom: 7px;
 padding-left: 30px;
-font-family:Georgia, "Times New Roman", Times, serif;
+text-align: center;
+font-family:'Helvetica', 'Arial', 'Sans-Serif';
 font-size: 28px;
-color: #000000;
+color: #f5f5f5;
 }
 
 /* Left column */
 .column1 {
   float: left;
   width: 20%;
+  height: 100vh;
   padding: 0px;
 }
 /* Right column */
