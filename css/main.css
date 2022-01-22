@@ -44,7 +44,7 @@ div.h3 {
 }
 
 ul.education {
- list-style-type: &#xf19d;  
+ list-style-type: <i class="fa">&#xf19d;</i>;
 }
 
 a { color: #076bb8; text-decoration: underline; }         /*HYPERLINK DECORATION*/
