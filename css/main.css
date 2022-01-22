@@ -10,7 +10,7 @@ div.h3 {
   font-size: 250%;
   text-align: center ;
   font-weight: 40;
-  color: #80050f;
+  color: #a10511;
 }
 
 .wrapper {
@@ -51,7 +51,7 @@ a:hover { color: #008716; text-decoration: underline; }
    color: white; 
 }  
 .navmenu a:hover{
-  color: #80050f;
+  color: #a10511;
 }
 
 body {
