@@ -32,7 +32,7 @@ div.h3 {
 .main {
   background-color: #fff;
   width: 87%;
-  line-height: 1.5;
+  line-height: 1.8;
 }
 
 .sidebar {
@@ -45,6 +45,7 @@ div.h3 {
   padding: 40px;
   padding-top: 50px;
   top: 0;
+  line-height: 1.5;
 }
 
 ul.education {
