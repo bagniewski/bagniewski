@@ -18,10 +18,12 @@ div.h3 {
   justify-content: space-between;
 }
 
+/*
 .main,
 .sidebar {
   padding: 30px;
 }
+*/
 
 .main {
   background-color: #fff;
