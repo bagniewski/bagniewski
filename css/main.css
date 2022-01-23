@@ -1,6 +1,6 @@
 div.h1 {
   font-size: 120%;
-  font-weight: 150;
+  font-weight: lighter;
 }
 div.h11 {
   font-size: 120%;
@@ -8,12 +8,12 @@ div.h11 {
 }
 div.h2 {
   font-size: 180%;
-  font-weight: 100;
+  font-weight: lighter;
 }
 div.h3 {
   font-size: 250%;
   text-align: center;
-  font-weight: 40;
+  font-weight: lighter;
   color: #a10511;
 }
 
