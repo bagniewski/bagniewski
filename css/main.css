@@ -17,10 +17,6 @@ div.h3 {
   color: #a10511;
 }
 
-.newspaper1 {
-  columns: 100px 3;
-}
-
 .wrapper {
   display: flex;
   justify-content: space-between;
