@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 div.h1 {
@@ -11,13 +12,13 @@ div.h11 {
 div.h2 {
   font-size: 185%;
   font-weight: lighter;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 div.h3 {
   font-size: 250%;
   font-weight: lighter;
   color: #a10511;
-  font-family: "Open+Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .sublist li{
@@ -72,6 +73,7 @@ body {
   font-size: 0.95em;
   padding: 0;
   margin: 0;
+  font-family: "Open+Sans", sans-serif;
 }
 
 @-ms-viewport { width: device-width ; }
