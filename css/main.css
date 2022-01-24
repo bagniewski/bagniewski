@@ -3,6 +3,7 @@
 div.h1 {
   font-size: 125%;
   font-weight: lighter;
+  font-family: "Roboto", sans-serif;
 }
 div.h11 {
   font-size: 120%;
@@ -15,7 +16,7 @@ div.h2 {
 }
 div.h3 {
   font-size: 250%;
-  font-weight: 100;
+  font-weight: 300;
   color: #a10511;
   font-family: "Roboto", sans-serif;
 }
@@ -68,7 +69,7 @@ a:hover { color: #008716; text-decoration: underline; }
 
 body {
   background-color: #222;
-  font-size: 0.95em;
+  font-size: 0.9em;
   padding: 0;
   margin: 0;
   font-family: "Open Sans", sans-serif;
