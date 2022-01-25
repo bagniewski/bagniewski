@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@100&display=swap');
 
 div.h1 {
-  font-size: 125%;
+  font-size: 135%;
   font-weight: lighter;
   font-family: "Roboto", sans-serif;
 }
@@ -10,13 +10,13 @@ div.h11 {
   font-weight: bold;
 }
 div.h2 {
-  font-size: 185%;
+  font-size: 195%;
   font-weight: lighter;
   font-family: "Roboto", sans-serif;
 }
 div.h3 {
   font-size: 250%;
-  font-weight: 300;
+  font-weight: bold;
   color: #a10511;
   font-family: "Roboto", sans-serif;
 }
@@ -69,7 +69,7 @@ a:hover { color: #008716; text-decoration: underline; }
 
 body {
   background-color: #222;
-  font-size: 0.9em;
+  font-size: 0.91em;
   padding: 0;
   margin: 0;
   font-family: "Open Sans", sans-serif;
